@@ -12,7 +12,7 @@ The code requires the following tool:
 
 ## Description
 
-The project uses Sliding Mode Controller to control a UAV in Gazebo to follow a square trajectory. The tuning variables are set to make the motion smooth and with overshoots or oscillations. For detailed implementation guide, refer this paper:
+The project uses Sliding Mode Controller to control a UAV in Gazebo to follow a square trajectory. The tuning variables are set to make the motion smooth and with overshoots or oscillations.
 
 ## Results
 
